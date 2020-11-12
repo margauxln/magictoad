@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Magictoad
 
 You can use the [editor on GitHub](https://github.com/margauxln/magictoad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
