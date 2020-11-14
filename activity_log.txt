@@ -35,4 +35,107 @@ i.i.........iii..iic
  ....ccccc..cccccccccccc.cccccccccc.ccccc..ccc.......cc.....cccccccccccccccc.cc.c
  ccccc.cccccc.c.cc..ccccccccii.cccciii.c..i......cccccccccciri........c.......ccc
  c.c..ccc.cccciiccir_i....cccccccciii......ccccc.cccccccccccciiic....cccciii.c..c
+<<<<<<< Updated upstream
+=======
+ .......c.cc.........c.ciiiii.........ic.cc.........ccc.......cc.........c.cri...
+ 
+2020-11-10 11:02:53 
+ iii.iiirr_________rrrr_________rrr___rrrrrrrrrrrrrr__rrirrrrrrrrir__r_________rr
+ rr_________rr_________r_________rrr_________r_________rrrrrrrirr_________rr_rrrr
+ rr_r____rrr___r________rr____r_________
+2020-11-10 13:18:56 
+ ii..irrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_________rrrrr__rrr____r_______rr_rrrr_rr
+ r_________r_________rr_________rrrrrrrrr_rrrri.ii.........ii.........irrrrrrrrrr
+ rrrrr___rrrrrrrrrriii....ii.........iiccccc.ccc.........ccc.c....ccc.........ccc
+ iiii..iiiiiiiiiii
+2020-11-10 13:45:28 
+ iiii......irr__rrrrrrr_rrrr_r__rrrrrr_r__ic.........cii......riccc.c....cccccc..
+ .......cc.........cc.........cc
+2020-11-10 14:16:57 
+ i...ii........iirr______riii
+2020-11-10 14:18:28 
+ ii...irrrrii
+2020-11-10 14:19:20 
+ ii.irrc
+2020-11-10 14:19:54 
+ iiii.ir
+2020-11-10 14:20:15 /Users/noemieleroux/Library/Application Support/pico-8/carts/magictoad.p8
+ rrr__rrrrrccc.........cccccccccc.cc....cc..ccc.riccc..cc...ccccc.cc...c.......c.
+ cccccc.ccc.ccccccccccccc..cccc.cc...cccccc....cccccc..c.ccccc.cccccc..cccccc.ccc
+ cccccccc..cccccccccccccccccccccc....c.cccccccc.c..ccc..cccc...c.c.cc.c...cccc..c
+ cc.c...c.c.cc..cccccccccc...cccccc.cccccccccc.....ccccccccccccccccccccccccccrcci
+ cc.ccccc....ggmmmmmcc.cc.cccc.......cccc.ccc..ccccccccc....cccc.........ccccccc.
+ .cc.........cc.........cccccccccc.cc.c....ccc...ccccc.c..cccc......ccccc........
+ .ccccccccccccccccc.........ccccccc.....ccccccccccccccccccccccccccccccccc..ccccc.
+ .....cc..cccrccc.c..ccccccccccccccccccccccccccccc......cccccccccccccccccccccc...
+ ccccccccccccrricccccccccc.c.........cccc.cgg.gggggggmmggggg..ggggcc.cccc.cc....c
+ ....cccc.cc..cc..c..cccrccccc....ccc......c...ccc.ccc.c..cccc.ccc.c.........cccc
+ cccc.cccc.........ccc..cccc.........cccc.cc..cc........cc.........c.c.........c.
+ ......cc.......cccc....c...c.......c.c.....cccccccccc.cc...c.ccrrrrrrrrrrrrrrr_r
+ rrrrriccc.....cc.........c....c.........cc.........c......i.........c........c..
+ .......c........cccc.........cc.........cc.........ccc..cccccccccc.....c.......c
+ c..ccc.c....cciirrrrrrrrrr_r_rrrrrrrrrrrrr_rrrc.........ccccccccccccccccccc.cccc
+ c...cccc...cc..cccc.c......cc.........c..c.........ccccccccccccc.........cc.cccc
+ cc....cccccccccccc.ccc..cccccccccc.c.........cgggggggmcccc.........c.........cc.
+ .cccccc..ccccc.........cc........cc.ccccccccccc.....ccccccccccc.cccccccccccccccc
+ cccccccc.cccccccccccccccc.c.cc.........c......cc.c.cccccccccc....ccc.ccccccc....
+ cccc.........cccc..cccccccc...cccccccc.ccccc....c......c........c..ccccccccccc..
+ .cccccccccccc...cc.......c......icccccccc...c.ccccc.c..c.c.c.c........ccccccccc.
+ c.c...c.cccccc.cc..cccc.ccccccccccccccc....cccccccccccccccccccc.........ccccccci
+ rrrrrr_rcccc...ccccirrrrrrrr_rr___rrr___r_rrr_____iccccc..cccc....ccccirrrrriccc
+ cccccccccccccccirrr___rrrr_rr__rrcc.cc....ccc.........cc.......cccc....cc.......
+ ..cc........cciii.........i
+2020-11-12 10:42:50 
+ ii.........iii
+2020-11-12 10:51:33 /Users/noemieleroux/Library/Application Support/pico-8/carts/magictoad.p8
+ ir_____rrr_rrr_rrr_________r_r_rrii....iii.........irrrrr_rr_________riii.......
+ ..rrrrrrr_________rrrr____r_iiii.........iiii.ii.........ii.........iii.i....i..
+ .......iii........i
+2020-11-13 10:27:26 
+ iiii
+2020-11-13 10:27:38 /Users/noemieleroux/Library/Application Support/pico-8/carts/magictoad.p8
+ irrr___rrr__rrrrrrrrrrrcc.ccc.cc.ccccccccc..ccccccccccccccccccccccccccc.cccccccc
+ ccccccccccc..c...cc.........ccccccc.c..ccc...ccc.ccccccc..cccccccccc..ccmmmmmmmc
+ ...cc..cccc.cccccccccc..cccccccrrccc...cccccccc.cccccccccccccccccccccccccccggmmm
+ m.mmcc.........c..cccc.....ccccccc.cccccccccc.ccccccccccccccc...r___cc.ccc.cccc.
+ ........cc......crcccc.cccccccccccccc.cccccccccrrcccmm..m......mcccccccccccccccc
+ ..cc...ccccccc...c.cccc.cccc.....ccc.ccc.ccc.cccccccccccc.ccc.c.ccc....cc.cccccc
+ cccccrccccccccccccccccrrccr_rrrirr____rric.......rr_r_r_rrrrrr_________r________
+ _rc......ccccccccccc.ccc.cccccccc....c...cc..ccccccccccccc..ccccccc.cccc........
+ .c.........cccccccccccrrrcccc.cc...ccccc......c..cc.c..cccc.........ccccc...cccc
+ cccccccccc.c.cc.........c....cccccccccc..cccccccccccccccccccccccccc..ccccccccccc
+ cccccccccccccc.ccrrrrrrccc..c...ccccc..cc..ccccccc..cccccc.....cc..cccccrrcc.cic
+ .rrrcccc...cccccccccc.rrriccc.cc......ccccccccccc....c.cccccccc....rrr____rr__rr
+ riiiii.........ccccccccccccc.c.....cc....cccc..c..cc...ccc.ccccc.cc....ccc.cccic
+ ccc.c..cccrrrrc...c.........c.c.........ciirrr_rrr_rrr___rrrrrrrrr_________r____
+ _____r_r_______rrrrrriirrrrrrrrrrrrrrrccccccc.cccccc...c...cc...c..cccc..cccc...
+ .ccc.cccccc.........ccc......cc..c.........ccccccc.cccccc..c..cc.cc.cccc....ccc.
+ ........cccccccccc.c.cccccc.........c...c..c...c......ccc..c.c.cccccr___icccrrrr
+ cc.rcccccrrrcccccrrrrcccccccccccccr_____cccccc.ccrriccccrriccccr_______rricccrcc
+ cccr___ccc.ccr_cccrr_________rrrriccccccccccr____rr_________rcm.mmm...m.mmm....c
+ cc.ccccccc.........ccc.cccccccc......ccccc.ccccccccccgmmmgggggg.c...c.mmggggcccc
+ c.cmmmmm......m..mccc....c....cccccc.cm...mmmcc.cc.ccc..ccc..ccccccccccccccc.ccc
+ cccccc.ccccccc.ccccc.ccccccc.........cc.........ccccccccccccrrrcccccccccricccccc
+ ccccccc.rrrrrrcccccc.........ccccmggggggmmcc.........c..ccccccc..cmmmmmmmmmccccc
+ c..cccc.cc.ccccrrricccccccc...crrrrccccc..ccccccccrrccccc..crrrrrrrc.cccccccc...
+ ......c..cccc.cccccccccccccc.ccc.c.ccccccccc.c..ccccccc.c.........cccccc..cccccc
+ crrrrrccc.cccrrrccc.........c.........cc.ccc..c.........cc..ccc....cccccciiccccc
+ ci.ccc.....cccccrrrrrcccc....c...ccc.cccccccccrric.cccrrrccccccc..cccccc.cccccc.
+ cccrrrrcc..ccccccc.ccc.cc..ccc.ccccccccccc...ccccc..c.c....c.ccrr_rrrcccc.cccccc
+ ccccrrrrrrr_cccc...cccccccc.c..ccc.cccccccccc..cccc.ccccccccrrrcccccc.cccccccccc
+ rrrrrcccccc...cc.........c.........cc..cccccccccccccccrrrrrrrc.rrrrr____rrrccccc
+ cccccccccc.cc.cccccccirrrrccccccrrrrcccc.cccc.c.......c.c...ccccrr_rrcc...cccccr
+ rrrrrrrrrcccc..cccc..ccccccc.c.cc...ccc.........ccccccccccccccc.ccccicccccrrrr__
+ __riccc.ccmm..cc.ccccccccc.cccmmm.........m.........mm......m.........mmc..ccc..
+ c.........ccccccccccrrrr_r_____ricccc.cccccc.........cccccc.........ccccc..ccccc
+ cccccccccccccc....c........cccccc.cccccccccccc........ccccc.ccccc...cccccccccccc
+ c..c...c.......cc......c..ccccccccc.cc..cccccc..c.......cccccc...ccc.cc....ccc..
+ .c...cccccc.cri......c.c.....ccccci.i.ii.i..iii.........iii.c......c......cccccc
+ crrrrrrr_rr_________r_________rricccccccccc.........cc
+2020-11-14 06:00:19 
+ iiii
+2020-11-14 06:00:31 /Users/noemieleroux/Library/Application Support/pico-8/carts/magictoad.p8
+ rrrrrrrrriccc.c.........ccc.....ccc......cc.....ccc.........cc..c.........cc...c
+ ..cc....cccccc.........c.cccccccc..ccccccccccccccccrrr_icccrr_rrrrrccciii.......
+>>>>>>> Stashed changes
  

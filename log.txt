@@ -12,7 +12,11 @@ codo_init
     07 fullscreen_method 1 // 0 maximized window (linux)  1 borderless desktop-sized window  2 fullscreen
     08 foreground_sleep_ms 2 // number of milliseconds to sleep each frame. Try 10 to conserve battery power
     09 background_sleep_ms 10 // number of milliseconds to sleep each frame when running in the background
+<<<<<<< Updated upstream
     10 sessions 10 // number of times program has been run
+=======
+    10 sessions 19 // number of times program has been run
+>>>>>>> Stashed changes
     11 rmb_key 0 // 0 for none  226 for LALT
     12 desktop_path 
     13 sound_volume 256 // 0..256
@@ -55,7 +59,11 @@ codo_init
     found 0 joysticks
   ok
 ok
+<<<<<<< Updated upstream
 codo_load_pod: PICO-8.app/Contents/MacOS/pico8.dat ok 
+=======
+codo_load_pod: /private/var/folders/z2/tt37kr19799550tqpx17q08m0000gn/T/AppTranslocation/90D0FC98-D9D9-4E56-BC6A-F4AEC2D5BAB2/d/PICO-8.app/Contents/MacOS/pico8.dat ok 
+>>>>>>> Stashed changes
 codo_set_screen 128 128 8 100
  window size: 640 540
   setting filter to nearest (screen_mode 0  back page width: 128)
@@ -76,3 +84,7 @@ Current audio driver: coreaudio
 splore_init
 could not load favourites file: /Users/noemieleroux/Library/Application Support/pico-8/favourites.txt
 launch: [open "/Users/noemieleroux/Library/Application Support/pico-8/carts/"] result: 0
+<<<<<<< Updated upstream
+=======
+launch: [open "/Users/noemieleroux/Library/Application Support/pico-8/carts/"] result: 0
+>>>>>>> Stashed changes
